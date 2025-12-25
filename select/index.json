@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "はじまりはいつも雨",
+  "base_artist": "ASKA",
+  "createdAt": "2025-12-25T01:45:31.971160Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "はじまりはいつも雨 (Live ver.)",
+      "artist": "Aska",
+      "has_synced": false,
+      "path": "select/01_はじまりはいつも雨_(Live_ver.)_Aska.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "はじまりはいつも雨",
+      "artist": "ASKA",
+      "has_synced": true,
+      "path": "select/02_はじまりはいつも雨_ASKA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "はじまりはいつも雨",
+      "artist": "CHAGE&ASKA",
+      "has_synced": true,
+      "path": "select/03_はじまりはいつも雨_CHAGE&ASKA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "はじまりはいつも雨",
+      "artist": "Chikuzen sato",
+      "has_synced": false,
+      "path": "select/04_はじまりはいつも雨_Chikuzen_sato.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "はじまりはいつも雨",
+      "artist": "ASKA",
+      "has_synced": true,
+      "path": "select/05_はじまりはいつも雨_ASKA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "はじまりはいつも雨",
+      "artist": "CHAGE & ASKA",
+      "has_synced": true,
+      "path": "select/06_はじまりはいつも雨_CHAGE_&_ASKA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はじまりはいつも雨",
+      "artist": "ASKA",
+      "has_synced": false,
+      "path": "select/pl_01_はじまりはいつも雨_ASKA.txt"
+    }
+  ]
+}
